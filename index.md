@@ -5,13 +5,13 @@ All support inquiries, please email dan@celador.io.
 ## Privacy Policy
 Last updated: 4/19/2020
 
-Celador LLC ("us", "we", or "our") operates https://www.celador.io (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Daniel Hernandez ("us", "we", or "our") operates Cela Grocery List (the "App"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+We use your Personal Information only for providing and improving the App. By using the App, you agree to the collection and use of information in accordance with this policy.
 
 ### Information Collection And Use
 
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
+While using our App, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
 
 ### Communications
 
